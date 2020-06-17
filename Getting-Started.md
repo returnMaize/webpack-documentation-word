@@ -13,3 +13,9 @@
 | as well as | 此外；以及
 | prevent | 避免；防止
 | accidental | 偶然的；意外的
+| implicit | 隐含的；隐性的
+| explicitly | 明确的
+| declared | 宣告；宣布
+| assumes | 假设
+| exist | 存在
+| manage | 管理
