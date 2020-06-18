@@ -52,3 +52,4 @@
 | quite | 相当
 | ingenious | 巧妙
 | besides | 除了
+| enable | 使实现
