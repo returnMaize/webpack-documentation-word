@@ -53,3 +53,4 @@
 | ingenious | 巧妙
 | besides | 除了
 | enable | 使实现
+| feedback | 反馈
